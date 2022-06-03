@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kzkjulia
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate at nothing
-- 📫 How to reach me you piece of shit
+- 👀 I’m interested in **nothing**
+- 🌱 I’m currently learning **nothing**
+- 💞️ I’m looking to collaborate at **nothing**
+- 📫 How to reach me you piece of **shit**
 
 <!---
 kzkjulia/kzkjulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
