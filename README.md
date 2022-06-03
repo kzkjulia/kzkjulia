@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kzkjulia
-- 👀 I’m interested in **nothing**
-- 🌱 I’m currently learning **nothing**
-- 💞️ I’m looking to collaborate at **nothing**
-- 📫 How to reach me you piece of **shit**
-
-<!---
-kzkjulia/kzkjulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou a @kzkjulia
+- 👀 Meu email de contato é [email](julia.kozak@escola.pr.gov.br)
+- 🌱 Eu estou interessada em aprender a programar novas linguagens
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch
